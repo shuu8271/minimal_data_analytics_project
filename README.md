@@ -1,0 +1,1 @@
+# minimal_data_science_cookiecutter
