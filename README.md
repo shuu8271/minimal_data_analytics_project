@@ -14,6 +14,29 @@ Before you begin, ensure you have met the following requirements:
 * You have installed Python with version 3.6+
 * You have installed cookiecutter package [Follow instruction here](https://cookiecutter.readthedocs.io/en/latest/installation.html)
 
+## Project Structure
+```
+📁 project_name/
+    📁 src/
+        📄 __init__.py
+    📁 data/
+    📁 exploration/
+    📄 README.md
+    📄 requirement.txt
+```
+Here is a description of the structure above:
+
+* The folder src/ is dedicated to the Python package for production.
+
+* src/__init__.py is an empty file to initialise the project package.
+
+    >> Note that __init__.py files do not have to be empty and can be used, for example, to initialise code for the package.
+
+* requirement.txt is to install all the project related packages
+
+* The Markdown file README.md should contain a description of the project.
+
+
 ## Using this cookiecutter template
 
 To start using this cookiecutter,  follow below:
