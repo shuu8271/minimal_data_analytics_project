@@ -28,9 +28,9 @@ Here is a description of the structure above:
 
 * The folder src/ is dedicated to the Python package for production.
 
-* src/__init__.py is an empty file to initialise the project package.
+* `src/__init__.py` is an empty file to initialise the project package.
 
-    >> Note that __init__.py files do not have to be empty and can be used, for example, to initialise code for the package.
+    > Note that __init__.py files do not have to be empty and can be used, for example, to initialise code for the package.
 
 * requirement.txt is to install all the project related packages
 
