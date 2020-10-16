@@ -77,7 +77,7 @@ If you want to contact me you can reach me at yhcchen@outlook.com
 
 ## Remarks
 
-There is no .gitignore currently, .gitignore in project folder should only contain ignore files/folders related to this project
+.gitignore in project folder should only contain ignore files/folders related to this project
 
 Everyone should set up their own global .gitignore
 [Reference](https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/)
