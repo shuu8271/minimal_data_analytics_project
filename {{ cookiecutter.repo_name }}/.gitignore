@@ -1,2 +1,4 @@
-## Local .gitignore
-data/ # To prenvent sending large or sensitive file
+## Local .gitignore for project specific items
+
+# To prenvent sending large or sensitive file
+data/
