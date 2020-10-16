@@ -19,22 +19,32 @@ Before you begin, ensure you have met the following requirements:
 📁 project_name/
     📁 src/
         📄 __init__.py
+        📄 project_name.py
     📁 data/
+        📄 README.md
     📁 exploration/
+        📄 README.md
     📄 README.md
     📄 requirement.txt
+    📄 .gitignore
 ```
 Here is a description of the structure above:
 
-* The folder src/ is dedicated to the Python package for production.
+* The folder src/ is dedicated to the source code for use in this project.
 
-* `src/__init__.py` is an empty file to initialise the project package.
+* `src/__init__.py` is an empty file to initialise the project package as a module.
 
     > Note that `__init__.py` files do not have to be empty and can be used, for example, to initialise code for the package.
 
-* requirement.txt is to install all the project related packages
+* `data/` is to save source data to use in exploratory analyses
+
+* `exploration/` is to save all notebooks used for exploratory data analysis
+
+* requirement.txt is to install all the project related packages.
 
 * The Markdown file README.md should contain a description of the project.
+
+* .gitignore is used to ignore files from local repository.
 
 
 ## Using this cookiecutter template
