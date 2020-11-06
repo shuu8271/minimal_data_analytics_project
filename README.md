@@ -70,15 +70,12 @@ To contribute to Minimal Data Science Cookicutter Template, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## References
 
-Thanks to the following people who have contributed to this project:
+* [Readme template] (https://github.com/scottydocs/README-template.md)
+* [Minimal Data Science project setup](https://github.com/FilippoBovo/production-data-science/)
+* [Cookiecutter Data Science Template](https://drivendata.github.io/cookiecutter-data-science/)
 
-* [@scottydocs](https://github.com/scottydocs)
-* [@FilippoBovo](https://github.com/FilippoBovo/production-data-science/)
-* [@drivendata](https://drivendata.github.io/cookiecutter-data-science/)
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 ## Contact
 
