@@ -1,4 +1,4 @@
-# Minimal Data Science Cookicutter Template
+# Minimal Data Analytics Cookicutter Template
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub top language](https://img.shields.io/github/languages/top/shuu8271/minimal_data_analytics_project?style=plastic)
