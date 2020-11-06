@@ -3,7 +3,7 @@
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub top language](https://img.shields.io/github/languages/top/shuu8271/minimal_data_analytics_project?style=plastic)
 
-Minimal Data Science Cookicutter Template is used to create a structured project folders including necessary files to start.
+Minimal Data Analytics Cookicutter Template is used to create a structured project folders including necessary files to start.
 
 The structure is inspired by [Data Science Production](https://github.com/FilippoBovo/production-data-science/tree/master/tutorial/a-setup)
 
