@@ -72,7 +72,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## References
 
-* [Readme template] (https://github.com/scottydocs/README-template.md)
+* [Readme template](https://github.com/scottydocs/README-template.md)
 * [Minimal Data Science project setup](https://github.com/FilippoBovo/production-data-science/)
 * [Cookiecutter Data Science Template](https://drivendata.github.io/cookiecutter-data-science/)
 
